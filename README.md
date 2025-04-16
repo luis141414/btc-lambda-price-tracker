@@ -1,6 +1,6 @@
 # 🚀 BTC Lambda Price Tracker
 
-Infraestructura **serverless** con AWS y Terraform para guardar el precio del Bitcoin **cada hora** en un bucket S3, usando:
+Infraestructura **serverless** con AWS y Terraform para guardar el precio de Bitcoin **cada hora** en un bucket S3, usando:
 
 - 🐍 Una Lambda escrita en Python  
 - 🌐 La API de CoinGecko  
